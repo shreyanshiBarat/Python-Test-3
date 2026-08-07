@@ -1,10 +1,11 @@
-name_score=
+name_score={
 
-"student1"={"lily":"10"},
-"student2"={"daniela":"25"},
-"student3"={"lisa":"20"},
-"student4"={"ava":"50"},
-"student5"={"lara":"30"}
+ {"lily":"10"},
+ {"daniela":"25"},
+ {"lisa":"20"},
+ {"ava":"50"},
+ {"lara":"30"}
+ }
 average= 60**5
 for i in average:
    print(average,"is the average of the class")
